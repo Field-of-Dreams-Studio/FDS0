@@ -2,16 +2,28 @@
 
 ## Scope
 
-Any FDS member who joined the organization after 2024 is **strongly
-recommended** to complete the FDS0 onboarding curriculum. Members who
-joined on or before 2024 are not required to take FDS0, though they
-may sit in on individual seminars as observers, or join as guest
-mentors.
+Any FDS member who joined the organization after 2021 is **strongly
+recommended** to complete the FDS0 onboarding curriculum. 
+
+## Current Subject Group 
+
+| | FDS0-GP3 | FDS0-GP1 | 
+|---|---|---| 
+| Mentor | @Redstone | @JerrySu | 
+| Mentor | @Jiuyuan | | 
+| Fresh Member 1# |  | Tusu\* | 
+| Fresh Member 2 | Amagurenuchi\* | Jack Mao\* | 
+| Fresh Member 3 |  | @Tttournesol | 
+| Fresh Member 4 | | Zhihan Pang\* | 
+| Fresh Member 5 | @JellyFish | damesck\* | 
+
+> *Remark \**: For member name with \* this means the name listed here is temporary. <br>
+> *Remark #*: Fresh Member refers to member joined after Jan 2021. 
 
 ## Why FDS0 exists
 
-FDS produces reviewed work — code, documents, presentations, and
-decisions — across multiple workstreams. When a new member joins
+FDS produces reviewed work: code, documents, presentations, and
+decisions; across multiple workstreams. When a new member joins
 without a shared baseline, the first weeks are spent on recurring
 questions: how do we publish a document, how do we make a formal
 declaration, how do we collaborate on shared work, what does our
@@ -28,7 +40,7 @@ it from fragments.
 
 ## Structure
 
-FDS0 is a four-week, mentor-based initiation program. Each member is
+FDS0 is a flexible paced, mentor-based initiation program. Each member is
 paired with a one-to-one mentor who runs the weekly session, adapts
 the assignment to the member's background, and signs off the
 completion checklist. The curriculum has thirteen seminars, a midterm
@@ -95,12 +107,3 @@ Per the FDS Charter, any member of Subordinate Manager rank or
 higher may serve as a mentor (Articles 17 and 18). FDS members come
 from multiple regions; the mentor should be able to explain
 difficult parts in a language the member is comfortable with.
-
-## Open questions
-
-If you joined after 2024 and have not yet started FDS0, raise it
-with your mentor or with the maintainer of this curriculum. If you
-joined on or before 2024 and would like to revisit specific topics
-(for example, the AI-agent seminars or the FDS LaTeX template, both
-of which post-date the early years), reach out to the curriculum
-maintainer to arrange access.
